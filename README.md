@@ -1,4 +1,5 @@
-<img src="https://media-exp1.licdn.com/dms/image/C4D16AQH07bKtJBiz4w/profile-displaybackgroundimage-shrink_350_1400/0/1653425958934?e=1658966400&v=beta&t=fG4uRvreoKJ-DBopaYU7Vym8lBoklDj1JGBIPF0KLw8"/>
+![hi, i'm David](https://user-images.githubusercontent.com/46947863/170148117-6036b312-0925-4201-b4ba-f8d95e8b736a.png)
+
 # Hello There😁
 
 # Acerca de mi/About Me 👋
