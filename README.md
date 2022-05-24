@@ -64,12 +64,6 @@ Leadership skills, teamwork, problem-solving oriented, creative thinking, flexib
   src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white"
 />
 <img
-  src="https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white"
-/>
-<img
-  src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white"
-/>
-<img
   src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white"
 />
 <img
@@ -79,9 +73,6 @@ Leadership skills, teamwork, problem-solving oriented, creative thinking, flexib
   src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white"
 />
 <img
-  src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white"
-/>
-<img
   src="https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens"
 />
 <img
@@ -89,9 +80,6 @@ Leadership skills, teamwork, problem-solving oriented, creative thinking, flexib
 />
 <img
   src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white"
-/>
-<img
-  src="https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101"
 />
 <img
   src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white"
